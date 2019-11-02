@@ -1,7 +1,7 @@
 package com.upgrad.quora.service.common;
 
 /**
- * @author Manish Rout (https://github.com/mnshrt)
+ * @author Manish Rout (https://github.com/s498)
  * Description - Interface for constant used for identifying checkpoints
  */
 public interface EndPointIdentifier {
